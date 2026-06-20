@@ -47,5 +47,5 @@ app.*.map.json
 # FVM Version Cache
 .fvm/
 
-# Internal planning docs
-plan.md
+# Internal docs (quotations, planning — not for distribution)
+docs/
